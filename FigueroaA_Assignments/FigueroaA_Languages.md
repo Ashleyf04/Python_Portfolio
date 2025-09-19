@@ -23,5 +23,6 @@ Low-level programming language invloves writing code that communicates closely w
 ## 11) Describe what a high level programming language is and provide at least two examples of a high level programming language.
 High-level programming involves writing code using languages that are closer to human language and abstract away most hardware details, making development easier; Ex: Java and Python.
 ## 12) Rank the following types of languages in order from most human friendly (least computer friendly) to most computer friendly (least human friendly): Asssembly Language, Natural Language, Machine Language, High Level Programming Language, Low Level Programming Language.
-
+Natural language, High-level programming language, Low-level programming language, Assembly language, and Machine language.
 ## 13) What are the four fundamental elements of language?  Describe each.  Where appropriate, include examples in your descriptions.
+An alphabet: it sets symbols that are used to build words for a language. Lexis: it's a set of words the language offers its users. Syntax: it's a set of rules used to determine if a certain string of words forms a valid sentece. Sematics: it's a set of rules determining if a certain phrase makes sense.
